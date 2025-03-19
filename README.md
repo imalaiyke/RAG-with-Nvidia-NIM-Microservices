@@ -1,4 +1,5 @@
-# RAG Application Development using Nvidia NIMS Microservices
+# RAG Application Development using Nvidia NIM Microservices
+# Nvidia NIM provides containers to self-host GPU-accelerated inferencing microservices for pretrained and customized AI models across clouds, data centers, RTX™ AI PCs and workstations. 
 
 ### Workflows
-Created a simple RAG chat application using Nvidia NIMS microservices and streamlit for deploying Mental Health and wellness application, helping users understand meaning, cause, symptoms and treatment for several medical disorders. 
+Created a RAG application using Nvidia NIM microservices and streamlit for deploying a front-end Mental Health and wellness Chat application, helping users understand the meaning, cause, symptoms and treatment for several medical disorders. 
